@@ -6,9 +6,10 @@ This repository includes my personal configurations, patches, and customizations
 
 ### Timeline
 
-- [24/9/2023] - Add [`NoBorder`](https://dwm.suckless.org/patches/noborder/), [`SplitStatus`](https://dwm.suckless.org/patches/splitstatus/) for `dwm`, and [`ScrollBack`](https://st.suckless.org/patches/scrollback/) for `st`.
-- [26/9/2023] - Add [`FakeFullScreen`](https://dwm.suckless.org/patches/fakefullscreen/) and [`HideVacantTags`](https://dwm.suckless.org/patches/hide_vacant_tags/) for `dwm`.
-- [27/9/2023] - Add [`Alpha`](https://dwm.suckless.org/patches/alpha/) and [`PreServeOnStart`](https://dwm.suckless.org/patches/preserveonrestart/) for `dwm`.
+- [24/9/2023] - Add [`noborder`](https://dwm.suckless.org/patches/noborder/), [`splitstatus`](https://dwm.suckless.org/patches/splitstatus/) for `dwm`, and [`scrollback`](https://st.suckless.org/patches/scrollback/) for `st`.
+- [26/9/2023] - Add [`fakefullscreen`](https://dwm.suckless.org/patches/fakefullscreen/) and [`hidevacanttags`](https://dwm.suckless.org/patches/hide_vacant_tags/) for `dwm`.
+- [27/9/2023] - Add [`alpha`](https://dwm.suckless.org/patches/alpha/) and [`preserveonstart`](https://dwm.suckless.org/patches/preserveonrestart/) for `dwm`.
+- [28/9/2023] - Add [`alpha`](https://st.suckless.org/patches/alpha/) for `st`.
 
 ### Docs
 
