@@ -3,3 +3,16 @@ super + w
 
 super + e
 	pcmanfm
+
+super + j
+	jupyter-lab
+
+XF86AudioRaiseVolume
+	pactl set-sink-volume $(pactl get-default-sink) +3% | pactl set-sink-mute $(pactl get-default-sink) 0
+
+XF86AudioLowerVolume
+	pactl set-sink-volume $(pactl get-default-sink) -3% | pactl set-sink-mute $(pactl get-default-sink) 0
+
+XF86AudioMute
+	pactl set-sink-mute $(pactl get-default-sink) 1
+
