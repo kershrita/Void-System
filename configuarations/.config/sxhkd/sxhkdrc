@@ -7,6 +7,15 @@ super + e
 super + j
 	jupyter-lab
 
+super + shift + m
+	bash .local/bin/usbmount.sh
+
+super + shift + u
+	bash .local/bin/usbunmount.sh
+
+shift + q
+	bash .local/bin/powercontrol.sh
+
 XF86AudioRaiseVolume
 	pactl set-sink-volume $(pactl get-default-sink) +3% | pactl set-sink-mute $(pactl get-default-sink) 0
 
