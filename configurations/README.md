@@ -8,6 +8,8 @@ These tools and configuration files provide the foundation for customizing **Voi
 2. **htop**: Interactive terminal-based system monitor for resource tracking.
 3. **picom**: Lightweight X11 compositor for window effects like transparency and shadows.
 4. **sxhkd**: Keyboard shortcut manager for executing commands and actions.
+5. **pulseaudio**: Audio management system for Linux, enabling control of sound devices and routing audio streams.
+6. **xbindkeys**: A tool for creating custom keyboard shortcuts in X11 environments, allowing you to perform actions or execute commands with key combinations.
 
 ### Configuration Files:
 
