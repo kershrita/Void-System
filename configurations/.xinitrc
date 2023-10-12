@@ -7,8 +7,8 @@ sxhkd &
 # set wallpaper
 xwallpaper --zoom Downloads/Pictures/orange_cliff.jpg
 
-# show bettary capacity
-xsetroot -name $(cat /sys/class/power_supply/BAT0/capacity)
+# show status bar
+bash .local/bin/statusbar.sh &
 
 # picom composite manager
 picom &
